@@ -12,13 +12,12 @@ Here are some useful resources for NU students:
 > [Registrar](https://registrar.nu.edu.kz)
 
 You may already be familiar with it, as it is the platform on which you register courses, but that website has some other useful features as well. Those include:  
-- [Course catalog](https://registrar.nu.edu.kz/course-catalog) 
-
+- [Course catalog](https://registrar.nu.edu.kz/course-catalog)  
     Here you can search for courses, but do mind the dates, some of them are deprecated
 
 - [Course schedule](https://registrar.nu.edu.kz/course-schedules)
 
-- [Course list with requirements](https://registrar.nu.edu.kz/course-schedules) 
+- [Course list with requirements](https://registrar.nu.edu.kz/course-schedules)  
     Here you can see all the courses taught in a given semester, together with all the pre-, co-, and anti-requisites.
 
 > [Academic Advising Office](https://aao.nu.edu.kz/)
